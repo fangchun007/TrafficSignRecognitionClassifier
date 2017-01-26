@@ -1,8 +1,3 @@
-# Traffic Sign Recognition Classifier
-Self-Driving Car Engineer Nanodegree
-Deep Learning Project
-Build a Traffic Sign Recognition Classifier
-
 ## Project: Build a Traffic Sign Recognition Program
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ### Overview
