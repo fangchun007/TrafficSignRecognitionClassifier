@@ -11,6 +11,10 @@ This lab requires:
 
 The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
 
+* As I checked, there is no opencv installed in the anaconda environment in CarND Term1 Starter Kit. Therefore
+`source activate carnd-term1`
+`conda install opencv`
+
 ### Dataset
 
 1. [Download the dataset](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip). This is a pickled dataset in which we've already resized the images to 32x32.
@@ -21,3 +25,4 @@ cd CarND-Traffic-Sign-Classifier-Project
 jupyter notebook Traffic_Sign_Classifier.ipynb
 ```
 3. Follow the instructions in the `Traffic_Sign_Recognition.ipynb` notebook.
+
