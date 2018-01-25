@@ -13,6 +13,7 @@ The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](htt
 
 * As I checked, there is no opencv installed in the anaconda environment in CarND Term1 Starter Kit. Therefore
 `source activate carnd-term1`
+
 `conda install opencv`
 
 ### Dataset
