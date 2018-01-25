@@ -12,9 +12,10 @@ This lab requires:
 The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
 
 * As I checked, there is no opencv installed in the anaconda environment in CarND Term1 Starter Kit. Therefore
-`source activate carnd-term1`
-
-`conda install opencv`
+```
+source activate carnd-term1
+conda install opencv
+```
 
 ### Dataset
 
